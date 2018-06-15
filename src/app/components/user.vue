@@ -76,7 +76,7 @@
         
         <p >{{publi.titulo}}</p>
     <hr>
-   <p> <i class="far fa-heart"> {{publi.likes}}</i> &nbsp;<i class="far fa-comments"> {{publi.comments}}</i></p>
+   <p> <i class="far fa-comments"> {{publi.comments}}</i></p>
         </div>
         </div>
         <div class="respon">
